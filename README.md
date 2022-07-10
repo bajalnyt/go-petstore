@@ -1,3 +1,4 @@
+# Go-Petsore
 
 Swagger generated code for the sample petstore app provided by swagger
 
@@ -9,6 +10,7 @@ Swagger generated code for the sample petstore app provided by swagger
 (uses HTTPie)
 
 `http POST http://localhost:8080/v2/pet Id=2 Category=3`
+
 `http http://localhost:8080/v2/pet/1`
 
 Logs:
