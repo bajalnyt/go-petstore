@@ -14,14 +14,7 @@ import (
 	"log"
 	"net/http"
 
-	// WARNING!
-	// Change this to a fully-qualified import path
-	// once you place this file into your project.
-	// For example,
-	//
-	//    sw "/myname/myrepo/go"
-	//
-	sw "github.com/bajalnyt/go-petstore/"
+	sw "github.com/bajalnyt/go-petstore/swagger"
 )
 
 func main() {
