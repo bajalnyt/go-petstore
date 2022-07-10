@@ -1,4 +1,4 @@
-# Go-Petsore
+# Go-Petstore
 
 Swagger generated code for the sample petstore app provided by swagger
 
